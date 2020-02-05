@@ -1,0 +1,9 @@
+Monday :		Tuesday:		Wednesday:	Thursday:
+CITA 150		CITA 305		CITA 150		CITA 305
+10-11:50		11-12:15		10-11:50		11-12:15 
+
+AUTO 102		AUTO 102		
+1-1:50		2-4:50
+
+CITA 101				CITA 101
+3-3:50				3-3:50
